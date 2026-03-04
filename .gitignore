@@ -7,7 +7,7 @@ node_modules/
 # logs
 npm-debug.log*
 
-# build files
+# build folders
 build/
 dist/
 
@@ -15,7 +15,7 @@ dist/
 .DS_Store
 Thumbs.db
 
-# IDE files
+# IDE
 .vscode/
 .idea/
 
